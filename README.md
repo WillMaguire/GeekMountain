@@ -13,7 +13,7 @@ This is a simple demo not intented for active installation.
 
 Usage
 
-
+This is a simple demo not intented for active use.
 
 Contributing
 
@@ -24,12 +24,14 @@ Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 History
 
-TODO: Write history
+short and frustrating; watch this space for updates
 
 Credits
 
-TODO: Write credits
+https://github.com/chanjk
+https://github.com/kerrysng
+https://github.com/WillMaguire
 
 License
 
-TODO: Write license
+have at thee!
